@@ -1,7 +1,8 @@
 In this file you will find all the necessary info for downloading, running, and working with the web application.
 
 1) Downloading:
-	Clone the given repository: 
+	Clone the given repository: https://github.com/anakincho/developers.git
+	by typing "git clone https://github.com/anakincho/developers.git" in CMD
 2) Running:
 	Simply open up your Visual Studio, click on File Open, go to the cloned repository folder and select the project
 3) Working:
@@ -15,6 +16,14 @@ In this file you will find all the necessary info for downloading, running, and 
 	The registered user is pretty much the same as the non registered one.
 	There are also admin users (can only programmatically be created atm => no exploiting) which have their own Admin tab on the navigation bar which tab is a
 	an Admin Panel where the administrators can Create, Remove, and Edit Articles.
+	
+	ADMIN LOGIN DETAILS:
+	admin user1:
+		email: admin@ivanovarticles.com
+		password: Pa$$word1
+	admin user2:
+		email: canEditUser@wingtiptoys.com
+		password: Pa$$word1
 
 5) Bugs or non-working features:
 	The webapp was developped as simple as possible, no known bugs are present and all the possible features are tested and working. 
